@@ -1,7 +1,7 @@
 {
   "id": "additional_story_healers",
   "name": "Additional Story Healers",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "api": 2,
   "entry": "main.lua",
   "profile": "content",
@@ -13,5 +13,5 @@
   "incompatible": [],
   "experimental": false,
   "description": "Adds/modifies NPCs to act as additional healers for your party throughout the story",
-  "github": "ty-mcdk/additional_story_healers"
+  "github": "ty-mcdk/additional-story-healers"
 }
